@@ -1,0 +1,8 @@
+c:\Aplicacoes\SAML_Teste\SAML_Teste\SAML_Teste\bin\SAML_Teste.dll.config
+c:\Aplicacoes\SAML_Teste\SAML_Teste\SAML_Teste\bin\SAML_Teste.dll
+c:\Aplicacoes\SAML_Teste\SAML_Teste\SAML_Teste\bin\SAML_Teste.pdb
+c:\Aplicacoes\SAML_Teste\SAML_Teste\SAML_Teste\bin\Microsoft.IdentityModel.dll
+c:\Aplicacoes\SAML_Teste\SAML_Teste\SAML_Teste\bin\SAML2.dll
+c:\Aplicacoes\SAML_Teste\SAML_Teste\SAML_Teste\obj\Debug\SAML_Teste.dll
+c:\Aplicacoes\SAML_Teste\SAML_Teste\SAML_Teste\obj\Debug\SAML_Teste.pdb
+c:\Aplicacoes\SAML_Teste\SAML_Teste\SAML_Teste\obj\Debug\SAML_Teste.csprojResolveAssemblyReference.cache
